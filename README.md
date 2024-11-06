@@ -1,8 +1,8 @@
 # CMP301_Shadows
 Starter project for CMP301. Shadow mapping.
 
-Name:
+Name: Furkan Baris Duyar
 
-Number:
+Number: 2405499
 
-Outline of project:
+Outline of project: Shadow Mapping
