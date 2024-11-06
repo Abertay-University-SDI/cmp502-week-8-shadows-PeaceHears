@@ -19,7 +19,7 @@
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
-#x64/
+x64/
 x86/
 bld/
 [Bb]in/
@@ -345,3 +345,5 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+*/lib/*
